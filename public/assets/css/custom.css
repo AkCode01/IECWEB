@@ -1,0 +1,523 @@
+*{
+    font-family: sans-serif;
+}
+.text-golden{
+    color: #ca9f6e;
+}
+.theme_color{
+    color: #106167;
+}
+.urdu__text{
+    font-family:'Mehr Nastaliq Web 3' !important;
+    direction: rtl;
+    text-align: right;
+}
+.urdu__text span{
+    font-family:'Mehr Nastaliq Web 3' !important;
+}
+.en__text{
+    font-family: sans-serif;
+}
+.urdu__heading__style{
+    color: #106167;
+}
+.logo img{
+    width: 100% !important;
+}
+.single_blog_thumb img{
+    -webkit-filter: unset !important;
+}
+.font__style{
+    font-size: 20px;
+    line-height: 40px;
+    height: 76px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    direction: rtl;
+}
+
+.eng__version .font__style{
+    font-size: 16px;
+    line-height: 25px;
+    -webkit-line-clamp: 3;
+    text-align: left;
+    direction: ltr;
+}
+.eng__version .box__details__flexxy h4{
+    line-height: 22px;
+    font-size: 20px;
+    margin: 0;
+
+}
+.extra-space .blog-list .owl-dots{
+    margin: 0;
+    padding: 0;
+}
+#sticky-header .nav_scroll {
+    margin-left: 0px !important;
+}
+.english__text{
+    font-family: sans-serif;
+    direction: ltr;
+    text-align: left;
+}
+
+.mean-container .mean-bar::before{
+    content: unset !important;
+}
+.blog-button a:before{
+    content: unset !important;
+}
+.blog-button a:hover{
+    background: #ca9f6e;
+}
+.blog_button a:hover{
+    background: #ca9f6e;
+}
+.fatwa__btn__area a:hover{
+    background: #ca9f6e;
+}
+#sticky-header .dreamit_menu ul{
+    margin-left: 0px;
+}
+/* my__iframs */
+.my__iframs{
+    margin: 0px auto;
+}
+.my__iframs iframe{
+    width: 100%;
+    height: 320px;
+}
+/* my__iframs */
+/* ---------- banner slider ---------- */
+.iec__banner__slider .carousel .carousel-indicators{
+    position: unset !important;
+    padding: 10px 0px;
+}
+.iec__banner__slider .carousel .carousel-indicators li.active{
+    background-color: #0bb8c4;
+}
+.iec__banner__slider .carousel .carousel-indicators li{
+    background-color: #0f5980;
+    height: 4px;
+}
+/* ---------- banner slider ---------- */
+/* ---------- intros__section ---------- */
+/* .intros__section h1{
+
+} */
+/* ---------- intros__section ---------- */
+/*------------------------------------------ start dreamit-letter-area ------------------------------------------*/
+
+.dreamit-letter-area{
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(to right, #16929e, #0f5980);
+    background-position: center center;
+    padding-bottom: 20px;
+}
+
+.dreamit-letter-text h2{
+   text-align: center;
+   color: #fff;
+   font-family: "Montserrat", sans-serif;
+}
+
+.mertab-img-box{
+    width: fit-content !important;
+    margin:10px auto;
+}
+
+.mertab-img{
+    height: 300px;
+    width: 100%;
+    display: block;
+    margin: auto;
+    
+}
+
+
+
+
+.fatawa-area{
+    background-color: #fff;  
+}
+
+.fatawa-text-box{
+    box-shadow: 2px 2px 4px rgb(187, 187, 187);
+    height: 70px !important;
+    max-width: 300px !important;
+
+}
+
+.fatwa__boxes{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    height: 100%;
+    width: 100%;
+    direction: rtl;
+    font-family: 'Mehr Nastaliq Web 3';
+    box-shadow: 0px 0px 10px #0000001c;
+    padding: 10px;
+}
+.heading__fatwa{
+    text-align: center;
+    color: #cd5c5c;
+    font-size: 22px;
+    line-height: 37px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #c34a4a;
+    height: 120px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fatwa__question{
+    display: block;
+    text-align: justify;
+    height: 80px;
+    line-height: 37px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    transition: 0.5s;
+    font-size: 18px;
+}
+.fatwa__question b{
+    font-family: 'Mehr Nastaliq Web 3';
+}
+.fatwa__btn__area{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.fatwa__btn__area a{
+    background: #106167;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    line-height: 30px;
+    padding: 0px 20px 5px 20px;
+    font-size: 18px;
+    display: block;
+    text-align: center;
+    font-family: 'Mehr Nastaliq Web 3';
+    border-radius: 7px;
+}
+
+/* viral fatawa section */
+.viral__fatawa__sec .owl-carousel.owl-drag .owl-item{
+    padding: 0px 10px;
+}
+.viral__fatawa__sec .single_blog .single_blog_thumb img{
+    height: 300px;
+}
+.viral__fatawa__sec .single_blog_content:before{
+    background: #ca9f6e;
+}
+.viral__fatawa__sec .blog_page_title h4 a{
+    font-size: 20px !important;
+    color: #cd5c5c;
+    text-align: center;
+    font-family: 'Mehr Nastaliq Web 3';
+    height: 120px;
+    line-height: 40px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    direction: rtl;
+}
+.viral__fatawa__sec_eng .blog_page_title_eng h4 a{
+    font-size: 16px !important;
+    color: #cd5c5c;
+    text-align: center;
+    /* font-family: 'Mehr Nastaliq Web 3'; */
+    height: 90px;
+    line-height: 30px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    direction: ltr;
+}
+
+.viral__fatawa__sec_eng .owl-carousel.owl-drag .owl-item {
+    padding: 0px 5px;
+}
+.viral__fatawa__sec_eng .blog_button a{
+    margin: 0px auto 0px auto;
+    font-family: 'Mehr Nastaliq Web 3';
+    width: fit-content;
+    height: fit-content;
+    line-height: 25px;
+    padding: 0px 10px 5px 10px;
+    border-radius: 7px;
+    font-size: 15px;
+    border: 0px solid transparent;
+}
+.viral__fatawa__sec_eng .blog_button a::before{
+    content: unset;
+}
+.viral__fatawa__sec_eng .owl-dots{
+    margin: 0px !important;
+}
+.viral__fatawa__sec .blog-list .owl-dots{
+    margin-top: 10px !important;
+}
+.viral__fatawa__sec .single_blog{
+    margin-bottom: 10px;
+}
+.viral__fatawa__sec .single_blog_content{
+    padding: 5px !important;
+}
+.viral__fatawa__sec .blog_button{
+    display: flex;
+    margin-top: 5px;
+}
+.viral__fatawa__sec .blog_button a{
+    margin: 0px auto 0px auto;
+    font-family: 'Mehr Nastaliq Web 3';
+    width: fit-content;
+    height: fit-content;
+    line-height: 30px;
+    padding: 0px 20px 5px 20px;
+    border-radius: 7px;
+    font-size: 18px;
+}
+.viral__fatawa__sec .blog_button a:before{
+    content: unset !important;
+}
+.owl-dot.active{
+    background: #0bb8c4;
+    opacity: 1;
+}
+.owl-dot{
+    background: #0bb8c4;
+    opacity: .5;
+    border-radius: 0px;
+}
+/* viral fatawa section */
+
+
+/* start contact-us dawat-e-islami-markaz */
+
+.dawat-e-islami-markaz h1{
+  font-size: 25px !important;
+  line-height: 20px;
+
+}
+.markaz-text{
+    font-size: 18px;
+    line-height: 32px;
+    text-align: justify;
+    direction: rtl;
+}
+.tijarat-text{
+    font-size: 18px;
+    /* word-spacing: 30px; */
+}
+
+.link{
+}
+.appoint-link{
+font-family: sans-serif;
+text-align: center !important;
+}
+
+.Appointment-text{
+    direction: rtl;
+    font-size: 18px;
+
+}
+.Contact-text{
+    font-size: 17px;
+    font-family: sans-serif;
+    /* border: seagreen solid !important; */
+    margin: 0;
+}
+
+.message-text{
+    resize: unset;
+}
+
+
+.one_word{
+    font-family: serif;
+    font-size: 35px;
+    font-weight: 600;
+}
+.l-h{
+    line-height: 35px;
+}
+.button_oppointment{
+    text-align: center;
+}
+.b-a{
+    background: #106167;
+    color: white;
+    padding: 4px;}
+    .b-a:hover{
+    color: white;
+}
+.img-height{
+    height: 165px;
+}
+    
+
+
+
+/*------------------------------------------ end dreamit-letter-area ------------------------------------------*/
+
+/*------------------------------------------ urdu info pages  ------------------------------------------*/
+.urdu__info__pages{
+    padding: 40px 0px;
+}
+.urdu__info__pages .urdu__intro{
+    font-size: 20px;
+}
+
+
+/*------------------------------------------ footer section  ------------------------------------------*/
+.footer__section{
+    background: #106167;
+    position: relative;
+    overflow: hidden;
+}
+.footer__section .footer-logo {
+    padding-bottom: 14px;
+}
+
+.footer-logo img{
+    /* background-color: #fff; */
+}
+
+.footer__section .widget-text p {
+    color: #e3e3e3;
+    margin: 17px 0 30px;
+}
+.footer__section::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    /* background-image: url(../images/footer-bg.png); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.footer__section .widget-social-menu-inner ul {
+    display: inline-block;
+    list-style: none;
+}
+.footer__section .widget-social-menu-inner ul li a {
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+    border: 1px solid #fff;
+    text-align: center;
+    border-radius: 3px;
+    margin-left: 1px;
+    color: #fff;
+    transition: .5s;
+}
+.footer__section .widget-social-menu-inner ul li a:hover {
+    background: #ca9f6e;
+    border-color: #ca9f6e;
+}
+.footer__section .widget-footer-title h2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #f8f9fe;
+    margin: 16px 0px 30px 0px;
+
+}
+
+
+
+
+.footer__section .footer-title-menu ul {
+    display: inline-block;
+    list-style: none;
+}
+.footer__section .footer-title-menu ul li {
+    position: relative;
+    margin-left: 25px;
+    margin-bottom: 14px;
+    z-index: 1;
+    top: 5px;
+}
+.footer__section .footer-title-menu ul li:before {
+    position: absolute;
+    z-index: -1;
+    content: "";
+    left: -25px;
+    height: 1px;
+    width: 10px;
+    background: #f8f9fe;
+    font-size: 14px;
+    top: 14px;
+}
+
+.footer__section .footer-title-menu ul .app-icon:before{
+    position: relative !important;
+}
+
+
+
+
+.footer__section .footer-title-menu ul li a {
+    color: rgba(255,255,255,0.80);
+    font-size: 16px;
+    transition: .5s;
+}
+.footer__section .footer-title-menu ul li a:hover {
+    color: #ca9f6e;
+}
+.footer__section .dreamit-section-title span{
+    color: #ca9f6e;
+}
+/*------------------------------------------ footer section  ------------------------------------------*/
+
+/* media query */
+@media(max-width: 992px){
+    .urdu__text.font__style{
+        text-align: center;
+    }
+    .box__details__flexxy h4{
+        text-align: center !important;
+    }
+    .box__details__flexxy .blog-button{
+        text-align: center;
+    }
+    .mertab-img{
+        height: 400px;
+    }
+}
+@media(max-width: 767px){
+    .intros__section h1{
+        font-size: 30px;
+    }
+}
+@media(max-width: 576px){
+    .viral__fatawa__sec .single_blog .single_blog_thumb img{
+        height: 500px;
+    }
+    .mertab-img{
+        height: 100%;
+    }
+}
